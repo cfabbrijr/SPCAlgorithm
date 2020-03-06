@@ -1,5 +1,5 @@
 # SPCAlgorithm
-Repo with algorithms from my Master´s Thesis about Compressive Sensing Multispectral Image Recovering using a Single Pixel Camera
+Repo with algorithms from my Master´s Thesis about Compressive Sensing Multispectral Image Recovering using a Single Pixel Camera, presented at Universidade de São Paulo, Escola Politécnica, Engenharia Elétrica, 2020.
 
 The files contained are:
 
